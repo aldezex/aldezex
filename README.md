@@ -5,8 +5,8 @@ This is my new github account, I'm still migrating my old projects to this accou
 
 # Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldezex)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldezex)](https://github.com/anuraghazra/github-readme-stats?theme=dracula)
 
 # Top languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldezex)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldezex)](https://github.com/anuraghazra/github-readme-stats?theme=dracula)
