@@ -10,6 +10,3 @@ This is my new github account, I'm still migrating my old projects to this accou
 # Top languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldezex&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-# My favorite repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aldezex&repo=batata&theme=dracula)](https://github.com/aldezex/batata)
