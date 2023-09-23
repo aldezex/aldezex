@@ -1,11 +1,6 @@
 # About me
 
-I'm a _senior_ software engineer with a passion for learning new things. I'm currently working as a frontend developer at [idealista](http://idealista.com).
-This is my new github account, I'm still migrating my old projects to this account.
-
-# Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldezex&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+I'm a _senior_ software engineer with a passion for learning new things. I'm currently working as a platform developer at [idealista](http://idealista.com).
 
 # Top languages
 
